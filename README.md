@@ -1,0 +1,1 @@
+# quarkus-generated-entity-bug
